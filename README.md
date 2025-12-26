@@ -1,4 +1,5 @@
 # football-ai-colab
+source: https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data/data 
 - Final_players_stats.csv là file có ranking và điểm (tấn công, phòng ngự) của cả team và từng người(đây là thử ko cần dựa trên) trọng số là tham khảo trên web và các cầu thủ được match với từng trận gòi(code : ranking_players.ipynb)
 - players_data_light-2024_2025.csv là file stats của từng cầu thủ (code: Player_stat.ipynb )
 - lineups.csv là file có cầu thủ nào đấu trận đấu nào( có chỉ số chung của cả mùa của từng cầu thủ) ko có điểm 
