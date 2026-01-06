@@ -1,10 +1,5 @@
-Below is a **README template** for your **football-ai-colab** project in **both English and Vietnamese**. You can copy this into your repository’s `README.md` and edit names/descriptions as needed.
 
----
-
-## 📌 **README (English)**
-
-# Football AI Colab
+# Football AI
 
 Football AI Colab is a Google Colab-based project for exploring football (soccer) statistics and analytics using publicly available datasets. This project includes data processing notebooks and stat comparison insights for players and matches.
 
